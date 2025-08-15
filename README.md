@@ -10,12 +10,22 @@
 
 ## Configurações
 
-| Banco de Dados | MySQL     |
+| Item           | Valor     |
 |----------------|-----------|
+| Banco de Dados | MySQL     |
 | Schema         | meu_banco |
 
 ## Diagrama de classe da UML
 
+![Diagrama de classe]/diagrama_de_classe.png)
 
 ## Diagrama MER
 
+
+![MER]/mer.png)
+
+## Instruções SQL
+
+'''SQL
+
+'''
